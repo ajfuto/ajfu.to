@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkajfu_to=self.webpackChunkajfu_to||[]).push([[903],{2592:function(t,e,n){n.r(e);var u=n(2623),r=n(7294),f=function(t){function e(){return t.apply(this,arguments)||this}return(0,u.Z)(e,t),e.prototype.render=function(){return r.createElement("meta",{"http-equiv":"Refresh",content:"0; url='../aj_futo_resume.pdf'"})},e}(r.Component);e.default=f}}]);
+//# sourceMappingURL=component---src-pages-resume-js-e7cc154b05b6afc4cd79.js.map
