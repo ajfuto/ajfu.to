@@ -122,7 +122,6 @@ const PostsIndex = ({ data, location }) => {
                                                 >
                                                     <div className="main-fade-in-animation">
                                                         <small>{post.frontmatter.description || post.excerpt}</small><br/>
-                                                        <small>{post.frontmatter.date}</small>
                                                     </div>
                                                 </motion.section>
                                             </article>
