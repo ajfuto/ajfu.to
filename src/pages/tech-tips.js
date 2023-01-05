@@ -120,7 +120,7 @@ const PostsIndex = ({ data, location }) => {
                                                     transition={{ ease: "circOut", duration: (indexClicked === post.fields.slug ? 0.2 : 0.0) }}
                                                     style={{ marginTop: "0.25em" }}
                                                 >
-                                                    <div className="main-fade-in-animation">
+                                                    <div className="main-fade-in-animation" style={{lineHeight:'1em', marginTop:'.5em'}}>
                                                         <small>{post.frontmatter.description || post.excerpt}</small><br/>
                                                     </div>
                                                 </motion.section>
