@@ -19,7 +19,7 @@ class Contact extends React.Component {
                                         Email me at <code class="language-text">me [at] ajfu [dot] to</code>.<br/>
                                         Check out some of my projects on <a target="_blank" rel="noopener noreferrer" href="https://github.com/ajfuto">GitHub</a>.<br/>
                                         You can find me on Discord at <a target="_blank" rel ="noopener noreferrer" href="https://www.discord.com/users/178282932006420480">aj#0404</a>.<br/>
-                                        Connect with me on <a target="_blank" rel="noopener noreferrer" href="https://linkedin.com/ajfuto">LinkedIn</a>.
+                                        Connect with me on <a target="_blank" rel="noopener noreferrer" href="https://linkedin.com/in/ajfuto">LinkedIn</a>.
                                     </p>
                             </div>
                     </div>
