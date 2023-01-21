@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
       title: `ajfu.to`,
-      description: `I am a security researcher studying Computer Science at University of Illinois Urbana-Champaign.`,
+      description: `A.J. Futo is a Computer Science student at the University of Central Florida.`,
       social: {
           twitter: `ajfuto`,
       },
@@ -9,7 +9,6 @@ module.exports = {
           name: `A.J. Futo`,
       },
       siteUrl: `https://ajfu.to`, // Do not put trailing slash
-      image: `https://whitehoodhacker.net/icon256.png`,
   },
   plugins: [
       `gatsby-plugin-image`,
