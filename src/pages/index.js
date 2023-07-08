@@ -15,10 +15,10 @@ class Home extends React.Component {
         <div className="container-fluid d-flex flex-column main-mh-100">
           <NavigationSpacer />
           <div className="container flex-grow-1">
-            <h1>Hi there, I'm A.J.</h1>
-              <p>I study Computer Science with a focus in cybersecurity at the University of Central Florida.</p>
-              <p>I'm extremely honored to be one of <a target="_blank" rel="noopener noreferrer" href="https://www.ucf.edu/news/nsf-awards-ucf-2-9-million-to-train-next-generation-of-cybersecurity-defenders/">UCF's first</a> NSF Scholarship-for-Service students!</p>
-              <p>I love hiking, solving fun and unique problems, and listening to music. Check out my <a target="_blank" rel="noopener noreferrer" href="https://open.spotify.com/user/ajfuto">Spotify</a>!</p>
+            <h1>Hi there, I'm AJ!</h1>
+              <p>I'm a cybersecurity researcher based out of Orlando, FL.</p>
+              <p>I graduated from the University of Central Florida and was honored to be one of <a target="_blank" rel="noopener noreferrer" href="https://www.ucf.edu/news/nsf-awards-ucf-2-9-million-to-train-next-generation-of-cybersecurity-defenders/">UCF's first</a> NSF Scholarship-for-Service students!</p>
+              <p>Working out, solving fun and unique problems, and listening to music are some of my passions. Check out my <a target="_blank" rel="noopener noreferrer" href="https://open.spotify.com/user/ajfuto">Spotify</a>!</p>
           </div>
           <Footer />
         </div>

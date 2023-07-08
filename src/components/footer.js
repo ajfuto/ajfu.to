@@ -21,7 +21,7 @@ class Footer extends React.Component {
                         </div>
                         <div className="row justify-content-center">
                             <div className="col text-center">
-                                <p><small>Copyright © {new Date().getFullYear()} A.J. Futo</small></p>
+                                <p><small>Copyright © {new Date().getFullYear()} AJ Futo</small></p>
                             </div>
                         </div>
                     </div>
