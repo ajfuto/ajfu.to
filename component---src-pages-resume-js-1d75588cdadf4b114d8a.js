@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkajfu_to=self.webpackChunkajfu_to||[]).push([[903],{2592:function(u,t,f){f.r(t),f.d(t,{default:function(){return a}});var n=f(9499),e=f(7294);function a(){return(0,e.useEffect)((function(){(0,n.navigate)("https://ajfu.to/aj_futo_resume.pdf")}),[]),null}}}]);
+//# sourceMappingURL=component---src-pages-resume-js-1d75588cdadf4b114d8a.js.map
