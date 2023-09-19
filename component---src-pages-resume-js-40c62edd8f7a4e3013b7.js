@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkajfu_to=self.webpackChunkajfu_to||[]).push([[903],{2592:function(e,t,n){n.r(t);var u=n(6736),r=n(7294),o=n(3751),s=function(e){function t(){return e.apply(this,arguments)||this}return(0,u.Z)(t,e),t.prototype.render=function(){return r.createElement("div",null,r.createElement(o.Z,{title:"Resume",description:"AJ Futo's resume."}),r.createElement("meta",{"http-equiv":"Refresh",content:"0; url='../aj_futo_resume.pdf'"}))},t}(r.Component);t.default=s}}]);
-//# sourceMappingURL=component---src-pages-resume-js-40c62edd8f7a4e3013b7.js.map
